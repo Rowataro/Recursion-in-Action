@@ -4,4 +4,3 @@
 
 ## Bugs
 **Warning**: To make sure the program works properly, **DO NOT click in the terminal** when the program is running (only when it asks for input)
-* Fixing this bug is outside the scope of my knowledge currently.
